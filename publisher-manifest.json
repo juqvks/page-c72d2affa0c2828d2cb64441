@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "84ede7fb6e0ca5cb1dadd3c9",
+  "owner": "juqvks",
+  "repo": "page-c72d2affa0c2828d2cb64441",
+  "title": "佛跳墙",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "c72d2affa0c2828d2cb64441",
+      "a": "佛跳墙",
+      "b": "",
+      "entity": "佛跳墙",
+      "brand": "佛跳墙",
+      "separator": "",
+      "path": "index.html",
+      "hash": "f464205ee5e233d24edd27b63fa981a1a9edd610e74c30e6d21c727f7f0271b2",
+      "content": {
+        "keyword1": "佛跳墙",
+        "keyword2": "",
+        "primary_entity": "佛跳墙",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "佛跳墙用问答带着你把一盅名菜拆开看：名字怎么传、席面怎么排、会籍怎么选。没有口号，只有可以逐条追问的说明。",
+          "AI_DESCRIPTION": "佛跳墙用问答带着你把一盅名菜拆开看：名字怎么传、席面怎么排、会籍怎么选。没有口号，只有可以逐条追问的说明。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n*{box-sizing:border-box;margin:0;padding:0}\nhtml{}\nbody{background:#071525;color:#e8e0d0;font-family:system-ui,\"PingFang SC\",\"Hiragino Sans GB\",\"Noto Sans SC\",\"Microsoft YaHei\",sans-serif;line-height:1.75;font-size:17px}\na{color:#e0b15a;text-decoration:none}\na:hover{color:#f3d48a;text-decoration:underline}\n.wrap{width:min(1120px,92vw);margin:0 auto}\nheader.top{border-bottom:1px solid #2a4664;background:#06101c;padding:.7rem 0 .85rem}\n.crumb{font-size:.78rem;letter-spacing:.12em;color:#8ea0b5;text-transform:none}\n.crumb span{color:#c9922a;margin:0 .35rem}\n.toc{margin-top:.45rem;display:flex;flex-wrap:wrap;gap:.4rem 1.1rem;font-size:.86rem}\n.toc a{color:#d7c9a8;border-bottom:1px solid #3d5a78;padding-bottom:1px}\n.hero{padding:2.4rem 0 2.8rem;border-bottom:4px solid #c9922a}\n.mag{display:grid;grid-template-columns:1.35fr .95fr .85fr;grid-template-areas:\"lead quote side\" \"lead note side\";gap:1.4rem 1.6rem;align-items:start}\n.lead{grid-area:lead;border-right:1px solid #2c4a68;padding-right:1.4rem}\n.kicker{font-size:.72rem;letter-spacing:.28em;color:#c9922a;margin-bottom:.8rem}\nh1{font-size:clamp(2.4rem,6vw,4.4rem);line-height:.95;color:#f6edd8;font-weight:720;letter-spacing:.04em;margin-bottom:1rem}\n.lead p{font-size:1.02rem;color:#d5cbb6;margin-bottom:.85rem}\n.qa{margin-top:1.1rem;padding-top:1rem;border-top:1px dashed #35506c}\n.qa .q{color:#e0b15a;font-weight:650;margin-bottom:.25rem}\n.qa .a{color:#c9d3de;font-size:.95rem}\n.quote{grid-area:quote;background:#12263f;padding:1.3rem 1.15rem 1.4rem;border-top:6px solid #c9922a}\n.quote blockquote{font-size:1.28rem;line-height:1.45;color:#f3e6c8;font-weight:560}\n.quote figcaption{margin-top:.9rem;font-size:.78rem;color:#9aa8b8;letter-spacing:.08em}\n.note{grid-area:note;font-size:.88rem;color:#b7c4d3;padding:.2rem .2rem 0}\n.side{grid-area:side;display:flex;flex-direction:column;gap:.9rem}\n.side article{border-bottom:1px solid #2a4664;padding-bottom:.75rem}\n.side h2{font-size:.72rem;letter-spacing:.2em;color:#c9922a;font-weight:600;margin-bottom:.35rem}\n.side p{font-size:.9rem;color:#d2c6ad}\nsection{padding:2.6rem 0;border-bottom:1px solid #1c334c}\nh2.sec{font-size:1.55rem;color:#f4ead6;letter-spacing:.06em;margin-bottom:.4rem}\n.sec-lead{color:#9eb0c2;margin-bottom:1.4rem;max-width:40rem}\n.steps{display:flex;flex-direction:column;gap:1.15rem}\n.step{position:relative;padding:1.15rem 1.15rem 1.2rem 1.2rem;background:#0c1c30;overflow:hidden;min-height:7.2rem}\n.step .num{position:absolute;right:.4rem;bottom:-.85rem;font-size:6.4rem;line-height:1;font-weight:800;color:#c9922a;opacity:.14;pointer-events:none}\n.step h3{font-size:1.05rem;color:#e0b15a;margin-bottom:.35rem;position:relative}\n.step p{position:relative;max-width:46rem;color:#d7cbb4;font-size:.96rem}\n.plans{display:flex;flex-direction:column;gap:1.2rem;margin-top:.4rem}\n.plan{position:relative;background:#0c1c30;padding:1.35rem 1.3rem 1.5rem;overflow:hidden;border:1px solid #23405c}\n.plan .num{position:absolute;left:.35rem;bottom:-1.1rem;font-size:7.2rem;line-height:1;font-weight:800;color:#e8e0d0;opacity:.08;pointer-events:none}\n.plan h3{font-size:1.25rem;color:#f4ead6;margin-bottom:.2rem;position:relative}\n.price{font-size:1.55rem;color:#e0b15a;font-weight:700;position:relative}\n.annual{display:block;font-size:.86rem;color:#93a6b8;font-weight:500;margin:.15rem 0 .7rem}\n.plan ul{list-style:none;position:relative;margin-left:0}\n.plan li{padding:.28rem 0 .28rem 1rem;border-bottom:1px dotted #2a4664;color:#d5cbb6;font-size:.95rem}\n.plan li::before{content:\"—\";color:#c9922a;margin-left:-1rem;margin-right:.45rem}\n.p1{width:82%}\n.p2{width:90%;margin-left:6%;border-color:#c9922a;box-shadow:inset 6px 0 0 #c9922a}\n.p3{width:98%;margin-left:12%}\n.mark{display:inline-block;font-size:.72rem;letter-spacing:.14em;background:#c9922a;color:#071525;padding:.12rem .5rem;margin-left:.5rem;vertical-align:middle;font-weight:700}\n.clients{display:grid;grid-template-columns:1.1fr .9fr;gap:1.5rem}\n.clients .panel{position:relative;background:#12263f;padding:1.4rem 1.25rem;overflow:hidden;min-height:10rem}\n.clients .num{position:absolute;right:.3rem;bottom:-1rem;font-size:6rem;font-weight:800;color:#c9922a;opacity:.12}\n.clients h3{color:#e0b15a;margin-bottom:.5rem;position:relative}\n.clients p{position:relative;color:#d2c6ad}\n.faq-groups{display:flex;flex-direction:column;gap:1.8rem}\n.group{background:#0c1c30;padding:1.3rem 1.2rem 1.1rem;border-left:4px solid #c9922a}\n.group h3{font-size:1.08rem;color:#f4ead6;margin-bottom:.9rem;letter-spacing:.08em}\n.item{margin-bottom:1rem;padding-bottom:.85rem;border-bottom:1px solid #1e364f}\n.item:last-child{border-bottom:0;margin-bottom:0;padding-bottom:0}\n.item h4{font-size:.98rem;color:#e0b15a;margin-bottom:.3rem;font-weight:650}\n.item p{color:#cfd4c4;font-size:.95rem}\nfooter{padding:1.6rem 0 2.4rem;color:#7e90a4;font-size:.82rem}\nfooter strong{color:#c9922a;font-weight:650}\n@media(max-width:860px){\n.mag{grid-template-columns:1fr;grid-template-areas:\"lead\" \"quote\" \"note\" \"side\"}\n.lead{border-right:0;padding-right:0;border-bottom:1px solid #2c4a68;padding-bottom:1.1rem}\n.p1,.p2,.p3{width:100%;margin-left:0}\n.clients{grid-template-columns:1fr}\n.toc{gap:.35rem .8rem}\n}\n@media(max-width:520px){\nh1{font-size:2.35rem}\n.step .num,.plan .num{font-size:4.8rem}\nbody{font-size:16px}\n}\n</style><header class=\"top\">\n<div class=\"wrap\">\n<nav class=\"crumb\" aria-label=\"面包屑\">首页<span>/</span>佛跳墙<span>/</span>本刊目录</nav>\n<nav class=\"toc\" aria-label=\"本页目录\">\n<a href=\"#kaipian\">开篇栏</a>\n<a href=\"#dufa\">读法</a>\n<a href=\"#hui\">会籍阶梯</a>\n<a href=\"#rukou\">阅读入口</a>\n<a href=\"#wenda\">问答分组</a>\n</nav>\n</div>\n</header>\n<main>\n<section class=\"hero\" id=\"kaipian\">\n<div class=\"wrap mag\">\n<div class=\"lead\">\n<p class=\"kicker\">福州席面 · 食志创刊栏</p>\n<h1>佛跳墙</h1>\n<p>你会先问哪个问题：这是一道菜的名字，还是一份按月续上的席面笔记？我们不把答案写在招牌正中。杂志栏把两件事摊在同一页——左边是汤，右边是读法。</p>\n<p>坛子、慢火、多层叠料，是这盅汤在口头传统里最常被提起的三件物。本刊只整理能被追问的说法，不把传闻写成成绩单。</p>\n<div class=\"qa\">\n<p class=\"q\">问：我该把「佛跳墙」三个字当成店招吗？</p>\n<p class=\"a\">答：先当成刊名。页内没有门店坐标、没有代言人名单、也没有评比奖牌。你若要对照会籍，往下滑到阶梯栏；你若要弄清席面次序，先把中间那句引言读完。</p>\n</div>\n</div>\n<figure class=\"quote\">\n<blockquote>坛盖一开，路过的人据说会忘了下一步该往哪走。香气是叙事，不是测量值。</blockquote>\n<figcaption>开篇引言 · 口耳相传，不作担保</figcaption>\n</figure>\n<p class=\"note\">本栏用杂志分栏排版：主文负责把问题立住，侧栏只放短注。你可以从任意一栏跳进目录，不必按我们的顺序。会籍价格写在后页，读法写在中段，问答按主题收束。</p>\n<aside class=\"side\">\n<article>\n<h2>栏外短注</h2>\n<p>名菜来历有僧俗两说，版本互相打架。本刊并陈，不裁定哪一版「更真」。</p>\n</article>\n<article>\n<h2>这一期问什么</h2>\n<p>火候能不能被文字代替？三人席和二十人席差在统筹，不差在形容词。会籍为什么分成三档，而不是一张价目糊在一起？</p>\n</article>\n<article>\n<h2>阅读契约</h2>\n<p>没有提供的数据，我们不补写。空着的事实栏，就让它空着。</p>\n</article>\n</aside>\n</div>\n</section>\n<section id=\"dufa\">\n<div class=\"wrap\">\n<h2 class=\"sec\">读法：你问，我们按步答</h2>\n<p class=\"sec-lead\">使用这份食志，不必一次读完。下面四步是建议次序。你也可以倒着走：先看会籍，再回头问汤。</p>\n<div class=\"steps\">\n<article class=\"step\">\n<span class=\"num\">01</span>\n<h3>先把名字问清楚</h3>\n<p>问：为什么叫这个名字？答：民间把香气写得很满，僧人路过、食客停步，是故事结构，不是实验室记录。你把它当典故入口即可，不必当成品牌履历。</p>\n</article>\n<article class=\"step\">\n<span class=\"num\">02</span>\n<h3>再问席面怎么排</h3>\n<p>问：我要从哪一道想起？答：先看主料层次，再看辅料替换。本刊把「能换」与「不宜换」分开写，避免把地方差异说成唯一做法。</p>\n</article>\n<article class=\"step\">\n<span class=\"num\">03</span>\n<h3>然后才碰到会籍</h3>\n<p>问：不订阅能读吗？答：开篇、读法、问答分组都可以直接看。会籍对应的是按月加页的席面笔记与多人统筹表，不是把整站锁起来。</p>\n</article>\n<article class=\"step\">\n<span class=\"num\">04</span>\n<h3>最后确认阅读入口</h3>\n<p>问：要不要另装软件？答：目前没有可核验的安装包或商店页。浏览器打开本页即是入口。若以后增加渠道，会写在「阅读入口」栏，而不是口头相传。</p>\n</article>\n</div>\n</div>\n</section>\n<section id=\"hui\">\n<div class=\"wrap\">\n<h2 class=\"sec\">会籍阶梯：三问三档</h2>\n<p class=\"sec-lead\">问：为什么不并排比价？答：因为用量不同。三人对照、五人替换、二十人统筹，是递进关系。阶梯往右下走，责任变大，页数变厚。价格按月标出，年付是同一档的整数倍优惠写法。</p>\n<div class=\"plans\">\n<article class=\"plan p1\">\n<span class=\"num\">01</span>\n<h3>基础版</h3>\n<p class=\"price\">¥15/月<span class=\"annual\">按年付仅需 ¥150/年</span></p>\n<ul>\n<li>每月当季席面短记，适合把一盅汤问明白</li>\n<li>三人对照清单：主料、替换、忌口分列</li>\n<li>公开栏可回溯的基础释义</li>\n<li>来信按普通队列回复编辑部</li>\n</ul>\n</article>\n<article class=\"plan p2\">\n<span class=\"num\">02</span>\n<h3>旗舰版<span class=\"mark\">推荐档</span></h3>\n<p class=\"price\">¥35/月<span class=\"annual\">按年付仅需 ¥350/年</span></p>\n<ul>\n<li>每月完整火候长文，把步骤写成可追问的句子</li>\n<li>五人席对照与替换方案，适合家庭或小聚</li>\n<li>典故与地方差异对照页，两说并陈</li>\n<li>季节特刊加页</li>\n<li>来信进入优先队列，不承诺分钟级回复</li>\n</ul>\n</article>\n<article class=\"plan p3\">\n<span class=\"num\">03</span>\n<h3>团队版</h3>\n<p class=\"price\">¥85/月<span class=\"annual\">按年付仅需 ¥850/年</span></p>\n<ul>\n<li>整桌二十人的备料统筹表，按工序而不是按形容词排列</li>\n<li>同一份席单可供多人同时查阅</li>\n<li>可提出菜单结构定制需求，由编辑部协助整理</li>\n<li>团体讲座档期说明（以当期公布为准）</li>\n<li>会籍事务专人对接，范围仅限本刊已写明的服务</li>\n</ul>\n</article>\n</div>\n</div>\n</section>\n<section id=\"rukou\">\n<div class=\"wrap\">\n<h2 class=\"sec\">阅读入口：你问渠道，我们据实回答</h2>\n<p class=\"sec-lead\">问：客户端在哪下载？答：参考清单是空的。没有可核对的地址，就不会伪造按钮。</p>\n<div class=\"clients\">\n<article class=\"panel\">\n<span class=\"num\">A</span>\n<h3>浏览器即入口</h3>\n<p>正文、阶梯、问答都在同一份静态页里。手机把杂志栏改成单列，目录仍在页顶。不需要注册表单，也没有嵌入的播放器或外部脚本。</p>\n</article>\n<article class=\"panel\">\n<span class=\"num\">B</span>\n<h3>安装包与商店</h3>\n<p>目前没有已确认的应用名称、版本号或下载链接。下方不放伪按钮。若你见到别处流传的安装文件，那不属于本页声明范围。需要核对入口时，回到本栏查看是否出现新的地址；没有就继续用浏览器阅读。</p>\n<p><a href=\"#\">入口待公布</a></p>\n</article>\n</div>\n</div>\n</section>\n<section id=\"wenda\">\n<div class=\"wrap\">\n<h2 class=\"sec\">常见问题，按主题分组</h2>\n<p class=\"sec-lead\">问：为什么不做成一条长列表？答：题目混在一起，容易把典故和价目搅成一锅。下面三组各自独立，你只进需要的那一组即可。</p>\n<div class=\"faq-groups\">\n<section class=\"group\">\n<h3>主题一 · 名字、典故与席面</h3>\n<article class=\"item\">\n<h4>问：佛跳墙究竟是不是「一种固定配方」？</h4>\n<p>答：不是。流传文本里主料组合有出入，海味、菌菇、肉类的叠法随地方和年代变化。本刊把常见层次写成对照，而不是颁布唯一配方。</p>\n</article>\n<article class=\"item\">\n<h4>问：我能把传闻里的香气当成衡量标准吗？</h4>\n<p>答：不能。开篇引言来自口头叙事。香气无法在这页被量化，我们也不补写实验室结论。</p>\n</article>\n<article class=\"item\">\n<h4>问：素席能不能沿用同一结构？</h4>\n<p>答：结构可以借——分层、长时间、密闭——具体用料必须另写。基础版的三人对照会标出「可替换」与「不宜直接替换」，避免把荤席句子搬去素席。</p>\n</article>\n</section>\n<section class=\"group\">\n<h3>主题二 · 会籍、价格与使用边界</h3>\n<article class=\"item\">\n<h4>问：三档之间只是页数变多吗？</h4>\n<p>答：不完全是。基础版解决「把一盅问明白」；旗舰版加入五人替换与差异对照；团队版转向二十人统筹和结构定制。人数上去，编辑工作从释义变成编排。</p>\n</article>\n<article class=\"item\">\n<h4>问：年付和月付差在哪？</h4>\n<p>答：年付按十二个月整付书写：基础版 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年。页内不讨论未写明的折扣码，也不写退换条款——因为没有可供引用的条款文本。</p>\n</article>\n<article class=\"item\">\n<h4>问：会籍包不包括上门或代厨？</h4>\n<p>答：不包括。三档都是文字与表格。团队版的「专人对接」只对接会籍事务和已公布的讲座说明，不延伸成厨务外包。</p>\n</article>\n</section>\n<section class=\"group\">\n<h3>主题三 · 阅读方式与本页范围</h3>\n<article class=\"item\">\n<h4>问：没有客户端，手机怎么读杂志栏？</h4>\n<p>答：窄屏时三栏改成上下堆叠：主文、引言、侧注依次出现。页顶面包屑和目录仍可跳转。字号与行距按阅读栏设定，不依赖外挂字体。</p>\n</article>\n<article class=\"item\">\n<h4>问：为什么有些你想看的数据是空的？</h4>\n<p>答：本页只使用已给出的事实栏。事实栏为空时，不编造店址、评测、节点式的覆盖范围、用户评价或退款承诺。空，就是还没有可引用的句子。</p>\n</article>\n<article class=\"item\">\n<h4>问：目录会不会把我带去别的站点？</h4>\n<p>答：本页内的跳转都落在同一文档的栏目锚点。阅读入口若无已确认地址，链接保持为占位，避免把你送去无法核对的下载页。</p>\n</article>\n</section>\n</div>\n</div>\n</section>\n</main>\n<footer>\n<div class=\"wrap\">\n<p><strong>佛跳墙</strong> · 食志栏。刊名借用一盅名菜，不表示本页拥有该菜式的官方身份或门店经营权。</p>\n<p>价目与会籍权益以本页阶梯栏为准。安装包与商店链接未核验前不公布。</p>\n</div>\n</footer>",
+          "hash": "cc0d38dacaed64fac3d0dd4116b92a5216525c25fc43231ed7264182d49319e3",
+          "seo": {
+            "title": "佛跳墙｜先问这一盅，再谈会籍与读法",
+            "keywords": "佛跳墙,闽菜,福州,食志,席面笔记,会籍,坛煨,读法",
+            "description": "佛跳墙用问答带着你把一盅名菜拆开看：名字怎么传、席面怎么排、会籍怎么选。没有口号，只有可以逐条追问的说明。"
+          },
+          "provider": "grok",
+          "model": "grok-4.6-build",
+          "design": {
+            "no": "8602",
+            "hero": "3 杂志式多栏网格配引言",
+            "palette": "3 深海蓝配琥珀",
+            "nav": "5 页面顶部面包屑加目录",
+            "card": "5 编号大字压底",
+            "plans_view": "3 阶梯式递进排列",
+            "faq_view": "3 按主题分组",
+            "tone": "5 问答引导式",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "rdauuuo.cn",
+    "host": "p-56baeee090.rdauuuo.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "82dd5d23ac22f23389ed4e9f972dfcbac0aea481037291177df7a575443e8c2a",
+    "sitemap.xml": "360f008809f453867d42c83d8595ccd4a488f4782670535e8ec3d0eaae0b7a6a",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "9c5db6d4925e61ab885f287c88335d5fbf2f249b6ee6c3d62f746e47cd5d3465",
+    "robots.txt": "06a574659fb200dc56eb3e9b067b1df77d26ecb79177b21adbd85a4bf40313b6",
+    "b76a34b9a87ccadcda8dfb1b36740293.txt": "dac670ec82522db206920313a2e50cd308b3c3b902cb4231bddab9df049de85a"
+  },
+  "revision": "fc5ceff7baf815a7695b2add58adeef89f986ed4f85706ab21136d2082b2d8be"
+}
